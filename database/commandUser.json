@@ -1,0 +1,41 @@
+[
+  {
+    "jid": "6281511480762@s.whatsapp.net",
+    "db": [
+      {
+        "nama": "#enu",
+        "count": 2
+      },
+      {
+        "nama": "#dashboard",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "jid": "6287898635798@s.whatsapp.net",
+    "db": [
+      {
+        "nama": "#dashboard",
+        "count": 1
+      },
+      {
+        "nama": "#enu",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "jid": "6285156500621@s.whatsapp.net",
+    "db": [
+      {
+        "nama": "#enu",
+        "count": 5
+      },
+      {
+        "nama": "#tmp3",
+        "count": 1
+      }
+    ]
+  }
+]
